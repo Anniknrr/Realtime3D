@@ -42,7 +42,7 @@ public class InlayController : MonoBehaviour
         }
 
         // Ist der übergebene Index gültig
-        if(index>=0 && index <= inlayPrefabs.Length - 1) 
+        if (index>=0 && index <= inlayPrefabs.Length - 1) 
         {
             // Prefab laden
             GameObject loadedInlay = Instantiate(inlayPrefabs[index]);
