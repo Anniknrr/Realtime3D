@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 0cb2002f012becb4ea45aed6b5972899
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schubladen
+    second: {fileID: 2100000, guid: 2e37559ae81b00a4faf6e03f7cc44280, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HDR011
+    second: {fileID: 2800000, guid: a467d546949566e479a04d24ae4fc638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_20200904_123554
+    second: {fileID: 2800000, guid: b2b99fe7a879bfd4ab7aafa89926cd19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leafes_crassula_Height
+    second: {fileID: 2800000, guid: ce0aaf0b4170a584fa726cb5b28965b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leafes_crassula_Normal
+    second: {fileID: 2800000, guid: 09b9bed318986704483983844a33040b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leafes_crassula_Roughness
+    second: {fileID: 2800000, guid: e6c25a279fe588b47a41a242030538db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LeoAndAnnika_1
+    second: {fileID: 2800000, guid: f8f4684ec70752b409987e2a2e57b532, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RPM
+    second: {fileID: 2800000, guid: 522aa3c75a96adb4f8f70e77b2406afc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles002_1K_Color
+    second: {fileID: 2800000, guid: a5eb35ff63a91464396f0f0ad081b468, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles002_1K_Displacement
+    second: {fileID: 2800000, guid: 2cb0d0d410d7cd34e9d7c786c0ad094b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles002_1K_NormalDX
+    second: {fileID: 2800000, guid: ec686019ddb39564da6c6bf4fa2e881d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles002_1K_Roughness
+    second: {fileID: 2800000, guid: ee16bdfa741deb941b5b0dfc26a5c5cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles101_1K_Color
+    second: {fileID: 2800000, guid: 5f27350c56eb9a2489c3eaac93794231, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles101_1K_Displacement
+    second: {fileID: 2800000, guid: 12145a9b0218bfa45baa734b4167d796, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles101_1K_NormalDX
+    second: {fileID: 2800000, guid: a080aee1dd43f8246acd1d897f415ed6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: a8dr_05f3_210816
+    second: {fileID: 2800000, guid: 5885ab679698ab94f989c0f00c305979, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blender_text
+    second: {fileID: 2800000, guid: e7608c08f210abf4baa3d4d9651c5b80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: logo
+    second: {fileID: 2800000, guid: e53e0edfb54b02747935be9556db30cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: schubladenSurface_Color
+    second: {fileID: 2800000, guid: ba5a827efb3cbcb49a9e84e9b21d1863, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: soil
+    second: {fileID: 2800000, guid: 4ce2462990d7fc7478f6e38062d40f44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trunk_crassula_2_Height
+    second: {fileID: 2800000, guid: bbfe51a59d032f94fb6e15b62e130ce5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trunk_crassula_2_Normal
+    second: {fileID: 2800000, guid: 5eb6c1e918d30234c8aa1c65e8bba9b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trunk_crassula_2_Roughness
+    second: {fileID: 2800000, guid: b6f8aa6dbd24c71409e7de3d37a1925e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
